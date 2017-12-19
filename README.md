@@ -15,3 +15,6 @@ laravel/resources/views/sample/cap.blade.php
 
 ## フォームリクエストクラス　CapRequest.php
 laravel/app/Http/Requests/CapRequest.php
+
+## LaravelにreCAPTCHAを導入してボットによるフォーム操作を根絶する
+https://www.ritolab.com/entry/47
